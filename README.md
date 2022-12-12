@@ -15,5 +15,7 @@ so whenever money is sent to the EUR account on the exchange, it will try to use
 
 variable buyAmountInEUR is what it says it is
 
+it needs the https://github.com/ccxt/ccxt project installed
+
 if you wanna tip me, here is my btc coffee address: bc1qu70pg9uzjwj8pcjd4cpvuttsveghtdh9e5qlj4
 
