@@ -6,6 +6,7 @@
 # the script checks the balance at startup, then checks the btc price, calculates how often the minimal amount of btc can be bought until dayOfRefill and goes to sleep for the corresponding amount of time until the calculated next buy.
 # so whenever money is sent to the EUR account on the exchange, it will try to use that money in full until the next dayOfRefill!
 # variable buyAmountInEUR is what it says it is
+# it needs the https://github.com/ccxt/ccxt project installed
 #
 # if you wanna tip me, here is my btc coffee address: bc1qu70pg9uzjwj8pcjd4cpvuttsveghtdh9e5qlj4
 #
